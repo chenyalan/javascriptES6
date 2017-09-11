@@ -40,13 +40,15 @@ Ethan Brown-JavaScript 手工敲打
   在项目根目录，运行eslint --init，需要回答一些问题
   然后在gulpfile.js里把这个模块加上====> 常量 eslint
 
-5.直接在终端命令里输入gulp 
+运行
 
-6.测试test.js
+1.直接在终端命令里输入gulp
+
+2.测试test.js
   node es6/test.js
   巴拉巴拉 
 
-7.over
+over
 
   
   
