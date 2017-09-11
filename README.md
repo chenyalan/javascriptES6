@@ -29,7 +29,7 @@ Ethan Brown-JavaScript 手工敲打
 2..babelrc
   在根目录手动创建该文件，内容就是你看到的那么点
   这样，Babel就可以识别项目所有ES6的地方了，其实也不对，
-  本人用的webstorm编辑器默认Ecmascript5,要想不报错，在file-settings-languages-javascript切换成Ecmascript6
+  本人用的webstorm编辑器默认Ecmascript5,要想不报错，还需在file-settings-languages-javascript切换成Ecmascript6
   
 3.gulpfile.js
   右击新建js文件，命名
