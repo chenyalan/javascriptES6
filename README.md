@@ -2,7 +2,8 @@
 Ethan Brown-JavaScript 手工敲打
 
 先介绍本项目使用的工具
-1.Git  会push pull clone  fix-conflicts就好
+1.Git
+  会push pull clone  fix-conflicts就好
 
 2.Node & Npm
   https://nodejs.org/zh-cn/ 
